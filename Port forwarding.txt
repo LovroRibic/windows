@@ -1,0 +1,11 @@
+ipconfig - 192.168.1.9
+
+USER INTERFACE - ppp0.4 (to je krivo)
+
+SERVER IP - 192.168.1.9
+
+REMOTE HOST IP - empty
+
+LOOPBACK - ne
+
+25565 TCP/UDP
