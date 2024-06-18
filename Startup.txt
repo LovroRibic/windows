@@ -6,7 +6,7 @@ C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup
 
 TASK MANAGER
 
-Startup Appss - settings
+Startup Apps - settings
 
 HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run
 HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\RunOnce
