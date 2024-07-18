@@ -7,8 +7,6 @@ C:\Program Files\BraveSoftware
 C:\Program Files (x86)\BraveSoftware
 
 
-
-
 Computer\HKEY_CURRENT_USER\Software\BraveSoftware
 
 Computer\HKEY_LOCAL_MACHINE\SOFTWARE\BraveSoftware
