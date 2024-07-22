@@ -1,4 +1,6 @@
-C:\Users\Lovro\AppData\Local\BraveSoftware
+use "WIN + R" for %username% to work
+
+C:\Users\%username%\AppData\Local\BraveSoftware
 
 C:\ProgramData\BraveSoftware
 
